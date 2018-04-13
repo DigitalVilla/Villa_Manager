@@ -1,0 +1,62 @@
+Fred;Flintstone;34 Flintrock Way;T3R 5B6;403-295-9076;C
+Bugs;Bunny;22 Rabbit Hole Park;W2A 5K8;403-288-7213;R
+Samuel;Ludlow III;2345 The Rich Man Way;X2R 3M6;403-324-9812;C
+Bill;Partley;11 Partway Road;V7Z 4G7;403-232-9876;R
+Dr.;Evil;Some Where in the Caribean;N4W 8H3;999-999-9999;C
+Perky;Volunteer;343 Volly Road;B4U 8V3;403-345-9876;R
+BobBob;Never;22 NeverReally Lane;C2K 2N0;403-674-7865;R
+Homer;Simpson;345 Doooah Drive;D0A 0H0;403-855-4287;R
+Wilbur;Wimp;44 WumpWump Street;W1M 3P3;403-555-8888;R
+Really;Depressed;33 Has No Life Drive;B2C 4S7;403-456-7890;R
+Sam;Packitaway;345 Stash Road;Y2X 1L6;403-546-9867;C
+Nurse;Betty;32 Way Out There;M5W 4E6;403-456-7766;R
+Donald;Duck;76 Duck Pond Lawn;Z5X 8F4;403-926-9165;C
+Joe;Blow;450 Blowout Road;Y8V 7N2;403-743-9854;R
+Pebbles;Flintstone;34 Flintrock Way;T3R 5B6;403-295-9076;C
+Barney;Rubble;876 Rimrock Place;Y4H 4M7;403-765-2763;C
+Huey;Duck;76 Duck Pond Lawn;Z5X 8F4;403-926-9165;R
+Wylie;Coyote;9 Desert Way;T9M 4G7;403-453-9876;C
+Foghorn;Leghorn;34 Chicken Coop Loop;B7Y 8N4;403-765-0834;C
+Sylvester;Cat;88 Kitchen Rug Way;Y4F 9Z5;403-876-3487;R
+Annoying;Dog;99 Over the Back Fence;R3S 2L7;403-438-9175;R
+Bart;Simpson;345 Doooah Drive;D0A 0H0;403-855-4287;C
+Betty;Rubble;876 Rimrock Place;Y4H 4M7;403-765-2763;C
+Big;Chickenhawk;465 Top of Big Oak Tree;D9K 5M7;403-475-2876;C
+Marge;Simpson;345 Doooah Drive;D0A 0H0;403-855-4287;R
+Tweetie;Bird;88 Bird Cage Way;Y4F 9Z5;403-876-3487;R
+The;Other Road Runner;222 of the Desert;T9M 6V4;403-876-9087;R
+Wilma;Flintstone;34 Flintrock Way;T3R 5B6;403-295-9076;R
+Pepi;LePew;77 Forest Mews;B8B 7Z8;403-546-7623;C
+Luey;Duck;76 Duck Pond Lawn;Z5X 8F4;403-926-9165;R
+Daffy;Duck;44 Barnyard Corners;W3F 7K9;403-898-7651;C
+The;Buzzard;12 The Old Dead Tree;N6Y 7U5;403-423-5632;R
+Maggie;Simpson;345 Doooah Drive;D0A 0H0;403-855-4287;R
+Elmer;Fudd;23 The Down Home Farm;K8L 7C4;403-765-9807;C
+Maniana;Gonzalas;98 Cacti Corners;B0B 0B0;403-458-4937;C
+Porky;Pig; 88 Barnyard Corners;W3F 7K9;403-898-4498;R
+Bam Bam;Rubble;876 Rimrock Place;Y4H 4M7;403-765-2763;R
+Duey;Duck;76 Duck Pond Lawn;Z5X 8F4;403-926-9165;C
+James;Bond;007 CloseBy Mi6;O7O 7O7;403-700-0070;C
+The;Road Runner;222 of the Desert;T9M 6V4;403-876-9087;R
+Mickey;Mouse;123 DizzyLand Way;M4U 2I4;403-293-2849;C
+Pluto;Dog;1 DogHouse Place;N8R 2B8;403-345-9876;R
+Minney;Mouse;123 DizzyLand Way;M4U 2I4;403-293-2849;R
+Tasmainian;Devil;234 Whirling Dervish Road;T8M 5B7;403-208-4837;C
+Yosimety;Sam;12 Where in the SamHell;Q7C 4C2;403-438-0843;C
+Another;Road Runner;222 of the Desert;T9M 6V4;403-876-9087;R
+Speedy;Gonzalas;98 Cacti Corners;B0B 0B0;403-458-4937;C
+More Fastus;Road Runner;222 of the Desert;T9M 6V4;403-876-9087;C
+Barky;Dog;77 Right Next Door;M7N 7L4;403-764-8321;R
+Little;Chickenhawk;465 Top of Big Elm Tree;D9K 5M7;403-475-2876;R
+Deputy;Dog;233 Old Western Town;B8L 5H9;403-244-7126;C
+Yogi;Bear;756 Bear Cave Rd;N4K 5U6;403-274-8799;R
+Huckelberry;Hound;45 Hound Dog Haven;D0G 2C4;403-555-3434;C
+Rocky;Squirrel;222 Old Oak Tree;N8J 4B5;403-258-5429;R
+Lisa;Simpson;345 Doooah Drive;D0A 0H0;403-855-4287;C
+Lola;Bunny;88 Rabbit Babe Way;T8T 4M4;403-287-9365;R
+Melissa;Duck;456 Barnyard Place;R6B 9E2;403-215-7323;C
+Petunia;Pig;222 Pig Sty Place;Q7H 8K5;403-677-9211;R
+Penolope;Pussycat;45 Top of the Dryer Place;Y9G 6L2;403-832-2653;C
+Booboo;Bear;752 Bear Cave Rd;N4K 5U6;403-274-8799;R
+Marvin;The Martian;234 Out of this World Road;Z9Z 9Z9;403-191-9191;R
+Michigan J.;Frog;432 Down by the Pond Way;P2P 9M6;403-219-7031;C

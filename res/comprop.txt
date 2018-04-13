@@ -1,0 +1,200 @@
+8454T3477-90;17 26th St.;NE;I1;819842.41;Large parking area;M;5
+6858F88-43;55 112th Ave.;NE;I4;484476.84;Good road and rail access;M;3
+1337Q839-61;498 24th Ave.;NE;I1;617571.18;Located on a truck route;M;3
+3800V9511-5;9 44th St.;SE;I3;295564.8;Large storage yard area;M;2
+3777U9153-77;776 26th St.;NE;I1;814942.81;Good rail access;M;8
+8647C7557-19;911 27th Ave.;NE;I4;556921.24;Large parking area;O;5
+7332F4882-81;106 37th Ave.;NE;I1;619723.49;Large parking area;M;7
+4050F8335-14;584 30th St.;SE;I3;828025.79;Large number of offices;M;6
+6935J398-16;786 30th St.;SE;I3;432169.61;Ample open square footage for development;M;6
+4625C1730-64;66 20th Ave.;NE;I3;608109.24;Good rail access;O;6
+9363L8389-6;580 19th St.;NE;I1;637585.09;Good factory location;M;1
+6748O9424-58;327 Smed Lane;SE;I1;395871.52;Good rail access;O;4
+2101T6467-92;469 56th St.;SE;I4;395191.79;Good road and rail access;M;9
+867T1110-33;786 24th Ave.;NE;I1;253456.57;Good rail access;M;4
+3113E9855-92;544 Pegasus Way;NE;I3;792667.6;Located on a truck route;M;2
+9405H5362-24;718 56th St.;SE;I4;465815.85;Large number of offices;M;6
+341K7873-14;358 McTavish Rd.;NE;I2;796448.39;Large storage yard area;O;9
+4258J2767-62;645 19th St.;NE;I1;756709.28;Good factory location;M;8
+5774H451-17;680 27th Ave.;NE;I4;657382.64;Good rail access;M;4
+1533L9462-24;239 Dufferin Blvd.;SE;I3;661459.49;Close to airport;M;2
+2834C4363-41;179 Sheppard Rd.;SE;I3;429569.42;Large open square footage;O;6
+7801C7967-44;283 54th Ave.;SE;I1;664192.6;Large parking area;M;1
+7485H5099-94;215 54th St.;SE;I2;627202.77;Large number of offices;O;7
+1423C8447-20;771 Ogden Dale Rd.;SE;I2;583665.78;Close to airport;O;9
+3031X9259-44;621 48th St.;SE;I4;379987.71;Good rail access;M;3
+4654S7824-76;294 61st Ave.;SE;I3;436899.26;Large storage yard area;M;5
+5787V4304-29;15 61st Ave.;SE;I3;352185.15;Large storage yard area;O;7
+7291P6086-37;452 Industrial Way;SE;I2;823697.42;Close to airport;M;2
+4055Y7050-75;962 51st Ave.;SE;I4;363585.38;Large parking area;O;1
+292F9010-73;187 20th Ave.;NE;I3;557760.84;Good road and rail access;M;4
+5656Y9856-55;81 54th St.;SE;I2;492701.81;Good factory location;M;4
+8460V4113-93;551 51st Ave.;SE;I4;621458.46;Large number of offices;O;1
+125F3651-95;935 74th Ave.;SE;I2;453218.83;Located on a truck route;M;3
+4738G2081-73;654 40th St.;SE;I2;541446.06;Good rail access;M;4
+148Y123-73;471 44th St.;SE;I3;414220.18;Large parking area;M;4
+4722J9207-74;243 44th St.;SE;I3;571184.73;Located on a truck route;O;8
+3293T1243-19;527 27th St.;NE;I1;582965.76;Ample open square footage for development;M;1
+9251V7419-53;612 44th St.;SE;I3;424029.57;Good factory location;O;2
+9178I3046-19;937 StoneHill Dr.;NE;I2;785977.72;Good road and rail access;M;2
+4576L7311-82;354 27th St.;NE;I1;326926.99;Good rail access;O;9
+9298U2114-48;589 61st Ave.;SE;I3;569938.25;Located on a truck route;M;2
+4396M6382-59;746 27th Ave.;NE;I4;459875.19;Large parking area;M;1
+6509Q7550-60;815 Sheppard Rd.;SE;I3;398394.2;Large parking area;M;8
+5487X9082-77;446 Hopewell Place;NE;I2;610170.22;Located on a truck route;O;2
+8800N8411-45;454 40th St.;SE;I2;543505.36;Good factory location;M;3
+8897L7644-85;530 42nd Ave.;NE;I3;303077.18;Large storage yard area;M;9
+7438M6497-84;952 32nd Ave.;NE;I2;664065.72;Large storage yard area;O;6
+1835U2786-77;824 Smed Lane;SE;I1;371932.81;Large number of offices;O;2
+2798I7220-9;929 37th Ave.;NE;I1;621769.29;Ample open square footage for development;M;3
+1226H1310-91;934 32nd Ave.;NE;I2;300803.48;Ample open square footage for development;O;6
+2270D6857-60;698 26th St.;NE;I1;817183.85;Good factory location;M;6
+8706A3380-70;318 44th St.;SE;I3;511689.61;Good rail access;O;3
+3527O2875-92;363 Sunridge Way;NE;I2;625138.65;Located on a truck route;O;5
+8274R5815-16;305 Airport Rd.;NE;I3;475884.38;Close to airport;M;1
+3082O5275-10;261 19th St.;NE;I1;576223.94;Large parking area;M;7
+2221K9121-77;937 Industrial Way;SE;I2;505462.42;Large parking area;M;7
+4616A927-89;671 Dufferin Blvd.;SE;I3;766842.6;Good factory location;O;2
+8104V5174-30;137 Palmer Rd.;NE;I4;725990.7;Large storage yard area;O;8
+3840Y9668-39;952 27th Ave.;NE;I4;784746.13;Ample open square footage for development;M;9
+9514U9456-51;752 42nd Ave.;NE;I3;845421.64;Large open square footage;M;5
+6787W686-25;491 Pegasus Way;NE;I3;810229.72;Large storage yard area;M;2
+6114K6588-67;703 20th Ave.;NE;I3;516745.01;Large open square footage;M;3
+6388L59-81;106 McCall Way;NE;I2;495152.95;Good factory location;O;5
+4098U491-17;583 112th Ave.;NE;I4;343343.03;Good factory location;O;1
+7899J5739-76;879 Pegasus Way;NE;I3;732695.27;Large number of offices;M;9
+6586C977-77;775 Palmer Rd.;NE;I4;696109.72;Located on a truck route;O;6
+7366Q4255-85;707 114th Ave.;SE;I1;510247.2;Good rail access;O;3
+4689F6829-73;367 74th Ave.;SE;I2;300263.08;Ample open square footage for development;M;5
+8623B4360-4;202 McCall Way;NE;I2;686080.66;Large open square footage;O;1
+4013G1453-16;899 30th St.;SE;I3;607395.75;Good rail access;M;4
+3586I6599-19;29 20th Ave.;NE;I3;747433.91;Located on a truck route;M;4
+8249Y1090-25;275 42nd Ave.;NE;I3;694676.91;Good road and rail access;O;9
+7525A4236-27;132 Hopewell Place;NE;I2;593388.78;Large parking area;O;9
+1108Q7298-71;956 112th Ave.;NE;I4;628235.59;Good factory location;M;8
+5899S402-94;786 Dufferin Blvd.;SE;I3;540410.02;Close to airport;M;4
+343W4838-93;953 Palmer Rd.;NE;I4;691622.43;Large storage yard area;M;2
+1866R8412-30;920 74th Ave.;SE;I2;471659;Ample open square footage for development;O;5
+2929E3467-95;968 Sunridge Way;NE;I2;612864.46;Ample open square footage for development;O;7
+4119Q7248-40;620 114th Ave.;SE;I1;343185.67;Large parking area;M;2
+8488Z7284-61;464 Ogden Dale Rd.;SE;I2;324994.39;Good road and rail access;M;9
+2885G1883-51;346 54th St.;SE;I2;320845.65;Large open square footage;O;5
+9022U8148-57;395 32nd Ave.;NE;I2;465053.28;Good rail access;O;8
+8000I8844-44;922 56th St.;SE;I4;451280.71;Ample open square footage for development;O;5
+6700P500-15;786 61st Ave.;SE;I3;355432.33;Good rail access;M;3
+6881I719-89;995 26th St.;NE;I1;368543.63;Good rail access;O;8
+7998D3455-61;363 40th St.;SE;I2;819037.33;Large open square footage;O;5
+1855Y9550-68;309 Industrial Way;SE;I2;304940.38;Large number of offices;M;9
+1832E2436-91;970 Sunridge Way;NE;I2;456125.75;Large number of offices;O;3
+5858H8178-45;800 44th St.;SE;I3;810404.89;Large open square footage;O;2
+1457A6744-15;580 27th Ave.;NE;I4;755784.19;Located on a truck route;O;2
+2803A281-21;258 McCall Way;NE;I2;289213.63;Good factory location;O;3
+4932B1569-87;297 Dufferin Blvd.;SE;I3;828880.81;Large number of offices;O;1
+4031F4690-67;982 20th Ave.;NE;I3;336089.69;Large storage yard area;O;1
+6674U2636-89;885 Airport Rd.;NE;I3;431944.79;Good rail access;M;9
+5237F6916-93;710 32nd Ave.;NE;I2;295738.09;Large open square footage;M;8
+3251D9423-27;27 30th St.;SE;I3;502791.75;Large parking area;O;1
+8989J1125-90;813 Dufferin Blvd.;SE;I3;680596.16;Large number of offices;O;5
+9974F8247-66;670 McCall Way;NE;I2;448831.42;Good rail access;O;8
+6508G8932-48;660 Ogden Dale Rd.;SE;I2;261075.27;Large storage yard area;O;8
+1066N9785-25;610 Ogden Rd.;SE;I4;717861.22;Good factory location;M;9
+8803B7283-63;859 19th St.;NE;I1;590812.08;Large parking area;M;6
+5182J6705-12;640 78th Ave.;SE;I4;738766.14;Large parking area;O;5
+1389G6350-73;24 51st Ave.;SE;I4;846439.87;Large storage yard area;O;1
+9993D5881-9;433 56th St.;SE;I4;345912.98;Large storage yard area;M;1
+8850Y9-8;608 StoneHill Dr.;NE;I2;547132.63;Close to airport;O;5
+4080L6442-43;633 48th St.;SE;I4;696143.79;Good factory location;O;9
+5340X5715-62;326 Glenmore Trail;SE;I1;773666.82;Ample open square footage for development;O;8
+1960G9321-56;452 Hopewell Place;NE;I2;451140.91;Good road and rail access;O;9
+4666Y7817-76;658 27th Ave.;NE;I4;729987.72;Large number of offices;O;8
+8298W6360-7;482 FreePort Lane;NE;I1;630552.9;Ample open square footage for development;M;4
+9147C8264-93;977 114th Ave.;SE;I1;682259.88;Close to airport;M;3
+470Y7099-68;331 Dufferin Blvd.;SE;I3;442637.94;Large storage yard area;M;4
+9603Z1509-80;850 Palmer Rd.;NE;I4;671122.76;Located on a truck route;M;3
+4522Y9354-25;124 61st Ave.;SE;I3;569298.6;Large number of offices;O;5
+9928V5933-82;194 27th Ave.;NE;I4;722365.55;Good factory location;O;9
+8362H5417-3;903 61st Ave.;SE;I3;821248.75;Ample open square footage for development;M;1
+8590M2612-2;37 Ogden Rd.;SE;I4;779476.65;Good road and rail access;M;9
+7452W9272-23;449 Pegasus Way;NE;I3;386671.01;Large number of offices;M;8
+6072W3360-68;827 19th St.;NE;I1;848516.04;Good rail access;M;7
+2712N1650-13;82 Ogden Dale Rd.;SE;I2;673089.87;Large parking area;O;9
+1765X4126-31;363 54th St.;SE;I2;681500.62;Located on a truck route;M;5
+7432X8825-36;596 37th Ave.;NE;I1;587303.12;Good road and rail access;M;9
+6156D6583-38;655 29th St.;NE;I4;328984.94;Large parking area;M;7
+24Y8218-91;536 51st Ave.;SE;I4;412081.22;Ample open square footage for development;O;6
+4290K453-79;260 74th Ave.;SE;I2;265761.8;Large open square footage;M;8
+2142Z8500-52;680 56th St.;SE;I4;820961.67;Good road and rail access;M;6
+4361R1563-3;906 19th St.;NE;I1;335599.57;Good rail access;O;3
+7407M4684-95;767 Ogden Rd.;SE;I4;623832.3;Ample open square footage for development;M;7
+1144R5925-68;515 19th St.;NE;I1;471675.14;Good factory location;M;6
+4281A9017-33;160 30th St.;SE;I3;556114.91;Ample open square footage for development;O;2
+7434M8205-83;65 44th St.;SE;I3;428853.5;Ample open square footage for development;M;4
+7887K6813-96;399 19th St.;NE;I1;613227.47;Good factory location;M;1
+8138B3874-69;122 Ogden Dale Rd.;SE;I2;412207.54;Located on a truck route;M;7
+9667D2353-35;332 Ogden Rd.;SE;I4;489621;Large number of offices;M;4
+743O8055-75;226 54th St.;SE;I2;303163.19;Good rail access;O;1
+499B3950-17;799 29th St.;NE;I4;408053.4;Large parking area;O;9
+3006C608-85;787 27th St.;NE;I1;770397.95;Good factory location;O;1
+2644U8882-24;668 24th Ave.;NE;I1;419880.75;Large open square footage;O;4
+3437J6314-76;556 FreePort Lane;NE;I1;307112.39;Large open square footage;O;6
+8356G8448-8;374 112th Ave.;NE;I4;521012.97;Ample open square footage for development;M;7
+2797D1259-71;280 Ogden Dale Rd.;SE;I2;759536.97;Good factory location;O;9
+8207Y692-25;968 Glenmore Trail;SE;I1;260798.44;Good factory location;O;1
+5297W1357-18;622 Smed Lane;SE;I1;403528.1;Large open square footage;M;1
+350E3477-98;138 Sheppard Rd.;SE;I3;522469.03;Close to airport;O;1
+6409N6888-32;13 StoneHill Dr.;NE;I2;686850.1;Close to airport;M;7
+2807E3557-93;550 51st Ave.;SE;I4;823894.5;Large open square footage;M;4
+268H7397-41;649 32nd Ave.;NE;I2;384231.77;Large parking area;O;9
+4617D7961-26;393 42nd Ave.;NE;I3;626261.95;Large parking area;O;4
+3527A4763-66;527 90th Ave.;SE;I2;710527.96;Located on a truck route;O;7
+8178K2688-72;953 26th St.;NE;I1;545913.85;Large parking area;O;3
+4233R8484-84;961 Industrial Way;SE;I2;704309.68;Close to airport;O;5
+4491V9980-2;635 42nd Ave.;NE;I3;440944.63;Good factory location;O;2
+3745X6221-28;795 37th Ave.;NE;I1;329947.51;Large number of offices;M;9
+5171L9716-68;876 112th Ave.;NE;I4;689273.55;Close to airport;O;1
+7084S4482-88;172 24th Ave.;NE;I1;450745.92;Large parking area;M;5
+45E2389-8;19 FreePort Lane;NE;I1;588778.66;Good factory location;M;2
+2203Z9056-22;483 Ogden Dale Rd.;SE;I2;298927.96;Good rail access;O;3
+6947M1020-80;322 FreePort Lane;NE;I1;492693.48;Ample open square footage for development;M;4
+1597H2187-27;887 42nd Ave.;NE;I3;510262.08;Located on a truck route;O;5
+933R6948-7;980 Hopewell Place;NE;I2;444835.67;Large storage yard area;M;2
+470Y3809-65;602 Ogden Dale Rd.;SE;I2;401865.05;Large parking area;O;5
+3496L9871-61;168 StoneHill Dr.;NE;I2;499354.06;Good rail access;O;1
+4164E7278-33;968 Smed Lane;SE;I1;351207.11;Good road and rail access;M;3
+8671O5784-9;885 Glenmore Trail;SE;I1;398547.21;Large number of offices;M;4
+4018I5889-92;208 112th Ave.;NE;I4;482587.53;Good factory location;M;2
+1850W7509-71;644 74th Ave.;SE;I2;639924.46;Large parking area;M;3
+4940E5233-69;630 44th St.;SE;I3;384341.33;Good factory location;O;3
+9038X1423-39;764 Ogden Dale Rd.;SE;I2;390047.15;Good rail access;O;7
+36X7962-45;33 56th St.;SE;I4;265779.54;Large open square footage;M;6
+8947J604-79;436 61st Ave.;SE;I3;797805.09;Large storage yard area;O;6
+7406E1887-57;919 Hopewell Place;NE;I2;417358.15;Large storage yard area;M;6
+7732A9221-91;514 Airport Rd.;NE;I3;423650.4;Ample open square footage for development;O;6
+1889U9473-11;252 Sheppard Rd.;SE;I3;260812.65;Close to airport;O;3
+6527A5215-24;378 114th Ave.;SE;I1;333928.35;Large open square footage;O;5
+9923T6796-74;354 74th Ave.;SE;I2;467987.39;Located on a truck route;O;4
+4987G8482-67;153 Ogden Dale Rd.;SE;I2;510811.52;Good rail access;M;6
+9017G2768-96;758 Hopewell Place;NE;I2;787831.38;Large number of offices;O;7
+9981Q9750-10;972 32nd Ave.;NE;I2;398461.2;Close to airport;O;6
+4294B5079-77;755 Ogden Rd.;SE;I4;750523.84;Large number of offices;M;8
+7275L1006-31;971 19th St.;NE;I1;644907.09;Located on a truck route;O;6
+3550X7685-49;622 29th St.;NE;I4;515935.76;Good road and rail access;M;7
+5592C1964-31;204 19th St.;NE;I1;406753.22;Close to airport;M;6
+8874Q5882-21;565 56th St.;SE;I4;800624.9;Large open square footage;M;2
+6789K8422-32;682 74th Ave.;SE;I2;360185.59;Large number of offices;M;1
+7430A9071-38;649 42nd Ave.;NE;I3;253304.98;Close to airport;M;2
+3036M7542-47;362 54th St.;SE;I2;606874.13;Close to airport;M;1
+6290T8148-56;175 StoneHill Dr.;NE;I2;253221;Large parking area;O;4
+1844F2059-78;915 112th Ave.;NE;I4;577228.43;Good road and rail access;O;5
+6347F4095-86;182 Airport Rd.;NE;I3;479105.54;Close to airport;O;9
+2607A326-22;857 Sunridge Way;NE;I2;616084.46;Good rail access;M;1
+8276X6848-61;64 78th Ave.;SE;I4;338382.59;Good rail access;O;4
+3880J1622-56;658 FreePort Lane;NE;I1;387266.08;Good rail access;O;7
+9246F8797-22;569 30th St.;SE;I3;457027.93;Large parking area;M;3
+9042M6671-30;247 90th Ave.;SE;I2;753582.92;Large parking area;O;3
+2687M5331-14;764 74th Ave.;SE;I2;509987.33;Ample open square footage for development;O;6
+9225V1525-31;483 FreePort Lane;NE;I1;777692.8;Good road and rail access;O;7
+4729A5802-53;963 Smed Lane;SE;I1;320295.46;Good factory location;M;9
+6384X9042-96;943 61st Ave.;SE;I3;546874.54;Large number of offices;O;2
+221O1978-7;955 56th St.;SE;I4;372031.53;Large number of offices;M;1
+6281N6105-83;670 StoneHill Dr.;NE;I2;451123.95;Ample open square footage for development;M;7

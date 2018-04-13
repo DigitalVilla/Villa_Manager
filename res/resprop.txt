@@ -1,0 +1,300 @@
+8674X2034-61;833 Whitehorn Dr.;NE;R4;592344.47;Needs work;4140.4;2.0;5;A
+5803W4135-83;534 Sierra Nevada Way;SW;R1;565275.44;Great location;5422.0;3.5;2;A
+2626L1884-46;687 Aspen Ridge Gate;SW;R2;251808.49;Immaculate condition;4627.7;2.5;3;N
+3846J305-79;103 Martindale Blvd;NE;R4;329995.82;Beautiful walk out basement;4292.2;3.5;2;D
+9042K5717-82;847 Bridle Estates Way;SW;R1;542575.97;Lots of space;4741.1;2.0;2;N
+9829N2955-7;849 Strathcona Dr.;SW;R3;337083.34;Great mountain view, large lot;4142.0;2.5;3;A
+1833M9177-22;996 Panorama Cres.;NW;R1;284969.83;Handyman special;4228.4;1.0;4;A
+6603K7437-38;707 Taracove Estate Dr.;NE;R1;511464.34;Great mountain view, large lot;4889.0;1.5;5;D
+1120F2635-69;315 Kerwood Cresent;SW;R2;410474.46;Lots of space;4650.6;1.5;5;N
+4611C6711-80;661 DeerRidge Dr;SE;R3;548912.72;Spectacular veiw, great location;5377.7;1.0;5;A
+4357B8787-10;84 Panorama Cove;NW;R1;482407.82;Needs work;5257.0;3.0;3;A
+3582K9535-30;502 Panorama Cres.;NW;R1;409439.33;A real bargain;5332.0;3.0;3;A
+5848I7302-27;492 Coach Ridge Close;SW;R1;583512.7;Lots of space;4508.8;2.0;5;D
+1197H6472-42;243 Dalhurst Way;NW;R1;583069.26;Immaculate condition;5054.0;3.5;4;N
+9941G6153-20;876 RiverBend Dr.;SE;R3;506404.31;Immaculate condition;4667.9;2.0;3;A
+253O9598-15;63 Silver Dale Cr.;NW;R1;313944.21;Immaculate condition;4225.2;1.0;2;A
+5672M1797-35;901 Prestwick Estate Way;SE;R1;282811.84;Handyman special;5241.1;1.0;5;N
+8351U4308-19;904 Citadel Dr.;NW;R4;468687.58;Great mountain view, large lot;4536.2;2.0;5;D
+3127A2843-21;418 Somerglen Way;SW;R1;587551.45;A real bargain;4447.1;3.5;2;A
+6633Y4129-94;98 Senic Acres Dr.;NW;R4;634969.78;Handyman special;4750.2;2.0;5;A
+4303K4353-35;7 FalconRidge Blvd;NE;R4;453168.27;Great mountain view, large lot;4245.9;2.5;5;N
+6583J1929-5;627 RiverBend Dr.;SE;R3;536211.21;Great location;4177.7;2.0;4;D
+3738F2436-77;440 Deer Park Way;SE;R2;631184.75;Clean, large lot, good neighbours;4346.9;3.5;4;D
+6423T3426-32;918 Senic Acres Dr.;NW;R4;348360.43;Great location;5416.2;1.5;2;N
+6678K1268-99;568 Panorama Close;NW;R1;635893.02;Clean, large lot, good neighbours;5488.0;2.5;5;N
+1129G1393-23;260 Martin Crossing Dr.;NE;R3;604685.07;Handyman special;4584.0;2.0;5;N
+5067Q7206-90;368 Edgebank Place;NW;R1;406628.68;Handyman special;5149.3;1.5;2;D
+2577I1456-45;229 Maple Burn Dr.;SE;R3;474512.87;Beautiful walk out basement;4150.8;2.5;3;A
+4118M7128-40;164 Sunmeadows Close;SE;R1;424463.54;Needs work;5245.3;2.5;3;A
+8868J2886-11;759 Citadel Dr.;NW;R4;501860.48;Needs work;4343.8;3.0;4;D
+4754Z648-30;245 Aspen Ridge Gate;SW;R2;619254.78;Clean, large lot, good neighbours;5208.9;2.5;4;A
+4325I287-70;696 Coach Hill Rd.;SW;R3;389887.38;Spectacular veiw, great location;4483.4;1.5;3;N
+9678G8366-5;397 Martindale Blvd;NE;R4;502988.11;Handyman special;5260.3;3.0;4;D
+4204N4566-77;985 Southland Dr.;SW;R4;517112.6;Lots of space;5476.3;2.5;4;N
+3360V800-32;85 Rundleson Way;NE;R1;265352.31;Needs work;4525.4;3.0;4;D
+643K4102-95;841 Sirroco Dr.;SW;R4;371331.52;Handyman special;5069.8;2.5;2;D
+8695X5124-6;275 Maple Burn Dr.;SE;R3;267482.72;Beautiful walk out basement;4545.6;3.5;4;A
+8864P9487-83;545 Hawkwood Blvd;NW;R3;387170.44;A real bargain;4846.1;1.5;2;D
+5635Z9406-77;157 Templeside Rd.;NE;R2;469811.27;Clean, large lot, good neighbours;5094.8;3.0;5;D
+5159K7774-83;715 Cannock Place;SW;R1;573216.34;Great mountain view, large lot;4809.2;2.0;4;N
+9530P6445-34;258 Wood Glen Close;SW;R2;629960.32;Great mountain view, large lot;5093.9;1.0;3;D
+672F4585-23;190 Benton Dr.;NW;R2;614659.32;Great mountain view, large lot;5294.4;1.5;5;N
+9487L1893-30;683 Lancaster Way;SW;R3;606618.08;Needs work;5290.3;3.0;5;N
+7515W5019-46;884 Kerwood Cresent;SW;R2;637385.2;Clean, large lot, good neighbours;4802.2;2.5;4;N
+9500X3786-19;496 Panorama Close;NW;R1;605332.82;Great location;5241.9;2.0;2;D
+6240I6734-87;255 Rundleson Way;NE;R1;319455.87;Great location;5236.9;3.0;5;N
+7634R3157-49;474 Bridle Estates Way;SW;R1;502163.67;A real bargain;4022.5;1.5;3;N
+6169Y1109-17;215 Royal Crest Place;NW;R2;535914.88;Clean, large lot, good neighbours;4901.4;1.0;4;D
+1021E7846-60;732 Tuscany Heights;NW;R1;281125.3;A real bargain;5439.3;3.0;3;D
+2634E882-45;664 Falconshire Dr.;NE;R4;622855.52;A real bargain;4979.0;3.5;4;D
+6966A4190-62;981 Aspen Ridge Gate;SW;R2;521364.04;Handyman special;4928.8;3.5;3;A
+7637X5168-71;957 Coach Ridge Close;SW;R1;446689.39;Lots of space;4603.4;1.5;3;N
+2922G3718-10;383 Castlebrook Place;NE;R1;370002.97;Immaculate condition;4671.5;1.0;5;D
+2954H5247-93;973 Sutton Rd.;NW;R1;564552.42;Lots of space;4997.3;2.0;3;D
+595W4508-97;285 Breskens Dr.;SW;R3;536593.43;Great location;4842.1;3.5;3;N
+7196W7029-48;629 Kerwood Cresent;SW;R2;261786.19;Handyman special;4532.2;1.5;5;N
+1981J9359-31;298 Tuscany Heights;NW;R1;545110.5;Clean, large lot, good neighbours;4786.2;1.0;5;N
+884R8587-19;970 Breskens Dr.;SW;R3;552431.98;A real bargain;4438.0;1.0;5;A
+7592A5413-65;494 Rundleside Dr.;NE;R3;379429.89;Lots of space;4788.6;3.0;2;A
+6013D3666-19;207 Bowwood Dr.;NW;R3 ;528674.91;Needs work;4765.7;1.5;5;N
+9637W2388-98;691 Lancaster Way;SW;R3;358223.84;Beautiful walk out basement;5475.5;1.0;3;A
+9176I4546-56;321 Cannock Place;SW;R1;345175.86;Beautiful walk out basement;5082.6;3.0;3;A
+5445I9065-62;90 Bridle Estates Way;SW;R1;375213.38;Immaculate condition;5265.4;2.5;4;A
+9733U192-52;107 Falconshire Dr.;NE;R4;624228.56;Immaculate condition;5252.3;2.5;2;N
+8903K186-78;752 Templeview Way;NE;R1;540714.61;Lots of space;4161.1;2.5;3;D
+7080T8053-31;773 Rundleson Way;NE;R1;567679.37;Great location;5029.4;2.5;5;N
+178W8384-25;674 CastleGlen Way;NE;R2;560416.39;Needs work;4546.9;3.5;4;A
+3510W433-37;477 Sutton Rd.;NW;R1;361547.29;Beautiful walk out basement;4570.6;3.5;4;N
+6480E8339-58;430 Sierra Nevada Way;SW;R1;487326.96;Immaculate condition;4534.5;2.0;4;D
+1722Q8817-34;406 Sunpark Dr.;SE;R3;359281.56;Handyman special;5342.9;2.5;5;D
+9190U2764-1;664 Southland Dr.;SW;R4;382827.05;Immaculate condition;5270.8;3.5;3;N
+8474U2068-92;285 Citadel Dr.;NW;R4;429594.61;Great location;5280.2;3.0;3;A
+5056C2391-47;894 Silver Dale Cr.;NW;R1;522766.9;Great location;4501.3;1.5;4;D
+8424W6870-68;428 Citadel Dr.;NW;R4;554807.6;A real bargain;4919.0;3.5;4;A
+1789O4611-84;400 Sunpark Dr.;SE;R3;284544.72;Great mountain view, large lot;4553.1;1.5;5;A
+4661K1341-34;704 Bridle Estates Way;SW;R1;265646.15;Great mountain view, large lot;4114.7;1.0;3;A
+807H7904-20;171 Castlebrook Place;NE;R1;351104.16;Needs work;4779.7;1.0;3;N
+4975Q5190-16;36 Templeside Rd.;NE;R2;598423.83;Needs work;5318.2;3.0;3;A
+2400A1705-56;178 Northmount Dr.;NW;R4;567788.11;Immaculate condition;4382.9;3.0;5;N
+5367J2340-38;310 Lancaster Way;SW;R3;360550.81;Needs work;5266.3;3.0;3;A
+1095Z3868-53;453 Strathlea Gate;SW;R1;287986.57;Great mountain view, large lot;4403.4;1.0;2;N
+4839S4393-87;812 Templeview Way;NE;R1;590305.2;Spectacular veiw, great location;5313.9;2.5;3;N
+1494O371-87;720 Kerwood Cresent;SW;R2;543515.86;Handyman special;4045.9;2.5;3;D
+7968W5854-51;565 Panorama Cove;NW;R1;396804.59;Handyman special;5011.9;2.0;4;A
+7355P4402-82;593 Sunmeadows Close;SE;R1;275666.88;Beautiful walk out basement;4879.0;3.0;4;A
+4317V4499-83;182 Coach Hill Rd.;SW;R3;266115.28;Needs work;5409.2;1.0;4;D
+9196G4486-60;558 Falconshire Dr.;NE;R4;562859.7;Spectacular veiw, great location;5327.6;3.5;2;D
+6169X2794-4;114 Maple Burn Dr.;SE;R3;619436.74;Immaculate condition;5431.9;3.5;4;D
+8184I3795-64;264 Senic Acres Dr.;NW;R4;480842.16;Handyman special;4246.9;2.0;3;D
+8647K8759-41;414 Bowwood Dr.;NW;R3 ;309298.71;Lots of space;5069.5;2.0;2;D
+6597N5293-39;846 Maple Burn Dr.;SE;R3;331369.96;Great location;4245.6;3.5;5;N
+8707Z7182-69;374 Edenwold Dr;NW;R3;639708.54;Handyman special;5469.7;1.5;4;N
+7618R9857-60;297 Sunpark Dr.;SE;R3;475305.6;Handyman special;4297.9;2.5;2;D
+2056H4565-98;681 Maple Burn Dr.;SE;R3;596186.21;Handyman special;5422.2;1.5;3;A
+9750W7040-62;107 Somerglen Way;SW;R1;506073.8;Great mountain view, large lot;4561.5;2.0;5;D
+9497C3722-20;932 Tuscany Heights;NW;R1;271624.52;Lots of space;4583.8;1.0;5;N
+3610R596-11;700 Panorama Hills Dr.;NW;R3;399410.91;Immaculate condition;4692.4;3.5;4;D
+6748U6415-28;663 Harvest Hills Dr.;NE;R3;373912.04;Spectacular veiw, great location;4673.3;3.0;4;N
+1381X3444-93;390 Sirroco Dr.;SW;R4;575345.71;Spectacular veiw, great location;4321.6;3.0;5;A
+4226I4924-38;233 Coach Hill Rd.;SW;R3;601256.18;Clean, large lot, good neighbours;4741.2;3.0;3;A
+1703G9207-52;849 Dalhousie Dr.;NW;R4;308349.16;Immaculate condition;4235.7;2.5;2;D
+5851U5962-9;204 Parkwood Dr.;SE;R2;571143.99;Great mountain view, large lot;4990.3;3.0;5;D
+5268E9966-77;368 Templeside Rd.;NE;R2;421590.66;Handyman special;4177.2;3.5;5;A
+8382T2816-20;79 Rundlelawn Close;NE;R1;288878.2;Needs work;4003.0;3.0;3;D
+8892Q2396-11;353 Martindale Blvd;NE;R4;301238.15;Great mountain view, large lot;4055.6;2.0;5;A
+5296B4129-57;521 DeerRidge Dr;SE;R3;441625.85;Needs work;4602.4;1.0;5;D
+8344G6914-67;854 DeerRidge Dr;SE;R3;566739.73;Clean, large lot, good neighbours;5234.3;2.5;5;D
+1750V213-29;424 Sutton Rd.;NW;R1;503917.24;Great location;4951.4;2.5;3;A
+2697Q7006-40;94 Castlebrook Place;NE;R1;433024.22;A real bargain;4436.3;1.5;5;N
+9646X289-89;460 Southland Dr.;SW;R4;340532.43;A real bargain;4367.7;3.5;2;D
+5478R8362-59;242 Whitehorn Dr.;NE;R4;500558.14;Needs work;4682.5;1.0;3;D
+4322Z6562-56;968 Coach Hill Rd.;SW;R3;292713.09;Great location;4209.0;3.5;2;A
+405Q9982-36;952 Panorama Close;NW;R1;609196.65;A real bargain;5055.3;2.5;5;N
+6877Q3521-55;311 FalconRidge Blvd;NE;R4;433636.95;Lots of space;4056.3;3.0;5;D
+1949B1895-81;379 DeerRidge Dr;SE;R3;491765.94;Lots of space;4952.8;1.5;3;D
+8685F3362-15;61 Ranch Estates Rd.;NW;R1;579092.45;Clean, large lot, good neighbours;4299.2;3.5;2;N
+3536I6640-1;697 RiverBend Dr.;SE;R3;263314.52;A real bargain;4874.7;3.0;5;D
+7091R940-97;659 Martin Crossing Dr.;NE;R3;339291.13;Handyman special;4101.2;1.5;3;N
+8629J4163-6;354 Sutton Rd.;NW;R1;281971.06;Clean, large lot, good neighbours;4155.6;2.0;3;D
+3831H4141-46;390 Kerwood Cresent;SW;R2;597755.15;Great mountain view, large lot;5099.2;2.0;3;A
+2486J2266-84;555 Silver Dale Cr.;NW;R1;417346.03;Great mountain view, large lot;5437.5;3.0;3;D
+189J8081-81;806 Edenwold Dr;NW;R3;303217.6;A real bargain;4565.1;3.5;4;D
+4851V7269-17;727 Martindale Blvd;NE;R4;462414.93;Spectacular veiw, great location;4546.8;2.0;5;N
+5421G4017-70;985 Northmount Dr.;NW;R4;560472.88;Great mountain view, large lot;4133.9;3.5;2;A
+6369T2032-58;960 Oakfield Dr.;SW;R3;324820.37;A real bargain;4817.4;2.0;2;A
+7472H6379-57;222 Falconshire Dr.;NE;R4;506114.91;Spectacular veiw, great location;5074.9;3.0;3;N
+3975N970-84;668 Panorama Cres.;NW;R1;333530.6;Needs work;5274.6;2.5;2;N
+7496J3822-33;24 Hawkwood Blvd;NW;R3;355100.41;Beautiful walk out basement;4962.6;2.5;3;D
+3058B4235-92;970 McKenzie Towne Blvd;SE;R4;496792.08;Spectacular veiw, great location;5473.5;1.5;2;D
+2213Q2691-80;563 CastleGlen Way;NE;R2;304074.98;Handyman special;4972.2;1.5;4;D
+6648G5693-10;532 Falsby Rd.;NE;R3;447313.34;A real bargain;4154.2;2.0;4;A
+631R3797-6;915 Edgebank Place;NW;R1;477399.32;Great location;4406.7;2.0;5;A
+4419K1852-46;868 Hawkstone Close;NW;R2;310617.91;Spectacular veiw, great location;5258.8;1.5;4;D
+4142X5911-73;735 Northmount Dr.;NW;R4;401813.13;Lots of space;4431.0;3.5;2;A
+6765K1388-77;355 Sierra Nevada Way;SW;R1;432503.71;Great mountain view, large lot;4722.8;2.0;3;D
+1530S1860-81;221 Falconshire Dr.;NE;R4;595674.25;Handyman special;4369.4;2.5;3;D
+1740H7418-67;435 Dalhousie Dr.;NW;R4;401546.19;Needs work;5333.7;1.0;5;A
+2903J5643-49;506 Rundleson Way;NE;R1;558710.5;Lots of space;4292.3;1.0;4;A
+5116V7179-63;781 Whitehorn Dr.;NE;R4;302583.21;A real bargain;5323.2;3.5;4;D
+9076T1442-19;840 Rundleson Way;NE;R1;348221.64;A real bargain;5497.6;3.0;2;A
+6353E6227-7;396 Sirroco Dr.;SW;R4;437118.62;Clean, large lot, good neighbours;4232.5;1.5;3;A
+5442F7949-64;171 Rundleson Way;NE;R1;627669.1;Needs work;5364.9;1.5;5;N
+5736Q6857-64;907 Northmount Dr.;NW;R4;646582.39;Needs work;5467.6;3.0;5;N
+1820S3893-90;23 Panorama Close;NW;R1;573590.89;Immaculate condition;4435.0;1.5;2;D
+462Y2845-41;547 Somerglen Way;SW;R1;474384.7;Great mountain view, large lot;4335.9;1.5;5;A
+2349N3166-42;766 Lake Christina Way;SE;R1;326779.22;Beautiful walk out basement;4944.1;1.0;3;N
+9949N5180-80;562 Charlotte Dr.;SE;R2;302701.41;Lots of space;4729.6;3.5;5;D
+1912X461-71;669 Parkwood Dr.;SE;R2;373658.2;Great location;4417.1;2.0;3;A
+3147A5950-11;57 Verona Place;NW;R2;499928.55;Great mountain view, large lot;4496.6;1.5;3;N
+8136Q793-22;338 Lake Christina Way;SE;R1;343799.44;Great location;4795.9;2.5;4;N
+3103J9992-16;505 Silver Dale Cr.;NW;R1;514743.19;Great location;5416.2;1.5;2;A
+486A8836-36;433 Bowwood Dr.;NW;R3 ;609512.67;A real bargain;5458.9;3.5;2;D
+6584K6496-58;440 Sutton Rd.;NW;R1;352708.29;Lots of space;5069.2;2.5;2;N
+468L6445-86;759 Cannock Place;SW;R1;573449.14;Great mountain view, large lot;4358.8;2.0;4;N
+9004W5176-35;54 Bridle Estates Way;SW;R1;571358.97;Beautiful walk out basement;4769.1;2.0;5;A
+9482R9274-96;130 Sunmeadows Close;SE;R1;430155.17;Handyman special;4882.7;1.5;4;N
+7447O4186-97;713 Maple Burn Dr.;SE;R3;629707.83;Spectacular veiw, great location;5095.4;2.0;3;N
+3334E5891-99;596 Templeview Way;NE;R1;487513.45;Immaculate condition;5412.4;1.5;5;N
+7047C9408-29;635 Sutton Rd.;NW;R1;328106.49;A real bargain;4444.9;2.0;4;D
+4926C5281-40;939 Panorama Cove;NW;R1;634009.47;Immaculate condition;4439.4;3.0;5;N
+8509Y7273-71;217 FalconRidge Blvd;NE;R4;374401.31;A real bargain;4392.1;2.0;5;A
+9170C1142-34;528 Rundlelawn Close;NE;R1;637760.71;Handyman special;4962.4;3.5;5;A
+7036H5753-53;765 Strathcona Dr.;SW;R3;612320.47;Clean, large lot, good neighbours;5024.8;2.0;5;A
+6632V3869-24;915 Prestwick Estate Way;SE;R1;463246;Immaculate condition;5270.5;3.0;4;D
+5439K684-46;626 Breskens Dr.;SW;R3;548029.92;Beautiful walk out basement;5295.2;1.5;3;A
+4921N3624-14;814 Prestwick Estate Way;SE;R1;291672.51;Spectacular veiw, great location;4092.5;1.0;3;A
+6706M7060-66;953 Panorama Close;NW;R1;510795.88;A real bargain;4303.9;3.0;5;D
+9377Z391-57;290 Panorama Cove;NW;R1;430918.08;Needs work;4962.4;2.5;4;A
+3796N7452-87;624 Falconshire Dr.;NE;R4;283691.24;Great mountain view, large lot;4306.4;3.0;3;N
+7048V9416-32;321 Breskens Dr.;SW;R3;600986.09;Beautiful walk out basement;5033.6;2.0;4;A
+6939M2193-33;30 Sierra Nevada Way;SW;R1;540283.4;Great location;4609.1;1.0;5;D
+502W2934-38;83 Edgebank Place;NW;R1;580910.66;A real bargain;4942.1;1.5;4;A
+1213K8485-75;760 RiverBend Dr.;SE;R3;523241.09;Handyman special;4395.3;3.5;2;N
+487A1564-91;582 Bridle Estates Way;SW;R1;303049.42;Great location;4699.0;1.0;4;A
+9667N8074-41;404 Silver Dale Cr.;NW;R1;300797.6;A real bargain;4397.1;2.5;2;N
+8964G1295-93;510 Somerglen Way;SW;R1;380701.56;Handyman special;4965.3;2.0;3;D
+9779U5641-12;981 Breskens Dr.;SW;R3;437007.96;Clean, large lot, good neighbours;5205.3;3.5;2;D
+6544B4450-21;431 Templeside Rd.;NE;R2;554988.57;Spectacular veiw, great location;4937.2;2.5;4;D
+3489H2553-76;743 Benton Dr.;NW;R2;411737.55;Handyman special;4881.2;3.5;3;D
+837R5515-54;695 Royal Crest Place;NW;R2;446935.15;Great location;4945.9;1.0;5;D
+3624G3133-54;337 Hawkstone Close;NW;R2;426319.74;Great mountain view, large lot;4914.0;1.0;4;D
+4748N5254-19;667 Breaside Dr.;SW;R4;300687.8;Beautiful walk out basement;4250.5;2.0;3;D
+1957X3087-12;583 Ranch Estates Rd.;NW;R1;530819.87;Clean, large lot, good neighbours;5437.3;1.5;3;A
+6250P8990-47;178 Verona Place;NW;R2;303808.64;Great location;4377.0;3.0;4;N
+6681D2244-40;362 McKenzie Towne Blvd;SE;R4;308843.21;Immaculate condition;5497.6;3.0;2;A
+3635N7465-59;282 Oakfield Dr.;SW;R3;370581.95;Handyman special;4731.7;3.5;5;A
+9582T6252-56;357 Falconshire Dr.;NE;R4;455824.4;Needs work;5039.5;2.0;3;D
+2784M1157-20;726 Coach Hill Rd.;SW;R3;374270.79;Great location;4594.3;2.5;3;D
+5665G4378-52;638 Martindale Blvd;NE;R4;486735.79;Clean, large lot, good neighbours;4149.8;3.0;5;N
+5484T1479-35;730 Prestwick Estate Way;SE;R1;514261.46;Lots of space;4966.2;1.0;5;A
+525S3070-12;357 Martin Crossing Dr.;NE;R3;509152.25;Handyman special;4475.2;3.5;5;A
+295B4735-76;949 Rundleson Way;NE;R1;404033.09;Immaculate condition;4131.0;2.5;4;D
+3228H7415-59;22 Sierra Nevada Way;SW;R1;297609.93;Immaculate condition;4605.5;1.0;2;A
+5P7249-66;758 Royal Crest Place;NW;R2;365889.88;Great location;5152.2;1.5;3;D
+4976E5154-3;119 Bowwood Dr.;NW;R3 ;605196.46;Needs work;4088.6;1.5;3;D
+2200Y2553-51;206 Wood Glen Close;SW;R2;518393.6;Spectacular veiw, great location;4414.7;1.0;4;N
+6325K395-7;61 Sutton Rd.;NW;R1;548310.02;Spectacular veiw, great location;4117.4;3.5;5;N
+1958P4031-36;278 Aspen Ridge Gate;SW;R2;542433.78;Spectacular veiw, great location;4186.6;3.5;4;A
+8243I6674-99;728 Rundleson Way;NE;R1;600525.04;Handyman special;5304.8;3.0;4;D
+8200A8940-89;325 Northmount Dr.;NW;R4;311873.07;Immaculate condition;4055.6;2.5;3;D
+4765Z1520-81;75 Royal Crest Place;NW;R2;431501.65;Beautiful walk out basement;4838.7;1.5;2;D
+7728X2173-22;792 Sierra Nevada Way;SW;R1;474705.3;Clean, large lot, good neighbours;4468.4;3.0;3;D
+7528A7150-18;563 Martin Crossing Dr.;NE;R3;526876.66;Great location;4681.8;3.5;4;N
+3450S688-75;613 Breaside Dr.;SW;R4;570663.73;Handyman special;4976.9;2.5;4;D
+4960X4480-19;420 Royal Crest Place;NW;R2;625073.52;Clean, large lot, good neighbours;5358.5;3.5;2;N
+5845E1991-14;877 Breskens Dr.;SW;R3;371217.06;Great location;4168.8;2.5;2;N
+1394M56-28;951 Eversyde Close;SW;R1;506968.66;Handyman special;5243.0;3.5;4;A
+9170F2577-58;675 Martin Crossing Dr.;NE;R3;627890.52;Handyman special;4137.2;1.5;5;N
+3873Y8093-99;425 Dalhousie Dr.;NW;R4;374351.81;Immaculate condition;4642.6;3.0;4;A
+6442F4713-49;204 Rundlelawn Close;NE;R1;314849.73;Handyman special;4717.5;3.5;3;D
+6938H2248-14;257 Royal Oak Dr.;NW;R3;553117.74;Lots of space;5338.3;2.0;4;N
+9712Y2487-22;528 Panorama Cres.;NW;R1;351684.78;A real bargain;4594.1;3.0;5;D
+8153O4272-71;502 Falwood Place;NE;R1;357127;Lots of space;4128.0;1.5;4;A
+4666J490-13;618 Martin Crossing Dr.;NE;R3;292331.93;Spectacular veiw, great location;4256.9;2.5;4;D
+9653V9215-57;897 Dalhousie Dr.;NW;R4;448673.01;A real bargain;4784.5;1.0;5;D
+1060C1063-66;516 Martin Crossing Dr.;NE;R3;566070.54;Clean, large lot, good neighbours;4660.0;1.5;4;N
+3480Y9302-71;941 Hawkwood Blvd;NW;R3;331493.23;Lots of space;4222.0;2.5;4;N
+3029N8476-61;776 Taralea Place;NE;R2;556532.74;Handyman special;4811.9;3.0;4;A
+987T1148-74;781 Sutton Rd.;NW;R1;312261.62;Beautiful walk out basement;5035.5;1.5;5;N
+5782J962-19;530 RiverBend Dr.;SE;R3;504663.2;Immaculate condition;4899.8;1.0;5;N
+9084P3453-72;870 Verona Place;NW;R2;566500.18;A real bargain;4955.2;1.5;5;A
+7708Q3986-19;817 Sirroco Dr.;SW;R4;521566.69;Spectacular veiw, great location;5427.5;2.5;5;D
+8591J4827-68;673 Citadel Dr.;NW;R4;444846.86;Needs work;4131.2;2.5;4;N
+9427G665-67;26 Sunpark Dr.;SE;R3;497180.78;Immaculate condition;5219.9;3.5;2;D
+2482P3898-25;894 Sierra Nevada Way;SW;R1;455617.4;Great mountain view, large lot;4039.6;3.0;5;N
+3790K7715-88;599 Panorama Close;NW;R1;390711.24;Lots of space;4522.5;1.5;3;A
+4278F6334-42;983 Dalhurst Way;NW;R1;259598.74;A real bargain;5176.3;1.0;4;D
+3370L7857-21;342 McKenzie Towne Blvd;SE;R4;488767.65;Handyman special;4799.6;3.5;5;A
+9390Y5960-28;915 Taracove Estate Dr.;NE;R1;513011.18;Spectacular veiw, great location;5079.7;2.0;5;N
+4457X2036-66;979 Strathlea Gate;SW;R1;517136.72;Immaculate condition;4710.2;3.5;5;D
+4655O9579-21;486 Citadel Dr.;NW;R4;494577.17;Great location;4597.6;2.0;4;N
+9089H7390-83;820 Falsby Rd.;NE;R3;592130.77;Handyman special;4113.8;3.0;4;N
+3851Q7680-93;623 Panorama Cove;NW;R1;352633.91;Lots of space;5189.5;1.5;4;N
+9125R9357-54;649 Falwood Place;NE;R1;297448.89;Clean, large lot, good neighbours;4336.2;3.0;3;D
+9474A5655-37;460 Martin Crossing Dr.;NE;R3;508227.48;Beautiful walk out basement;4431.4;1.0;5;D
+8908U8797-68;228 Somerglen Way;SW;R1;272488.4;Beautiful walk out basement;5297.8;1.0;2;D
+3537J2696-35;162 Silver Dale Cr.;NW;R1;450125.89;Great location;4762.3;2.0;4;D
+5522V7564-73;13 Wood Glen Close;SW;R2;398043.84;Spectacular veiw, great location;4982.7;2.5;4;N
+2662H8002-28;758 Harvest Hills Dr.;NE;R3;457688.57;Spectacular veiw, great location;4389.8;2.0;4;D
+8170X8392-16;975 Southland Dr.;SW;R4;365331.34;Beautiful walk out basement;4103.6;3.0;3;D
+5259H6455-64;475 RiverBend Dr.;SE;R3;287529.78;Clean, large lot, good neighbours;4145.8;1.0;5;A
+712G7519-63;627 CastleGlen Way;NE;R2;514275.51;Great location;4189.3;3.5;4;N
+1046T8406-91;303 Oakfield Dr.;SW;R3;559913.52;Handyman special;4456.5;2.0;3;N
+3857S932-61;642 Templeside Rd.;NE;R2;526996.67;Immaculate condition;4198.8;2.5;4;D
+5676F735-99;821 FalconRidge Blvd;NE;R4;280817.34;Immaculate condition;4471.0;1.5;5;N
+6066I7637-3;682 Strathlea Gate;SW;R1;462435.67;Lots of space;4141.4;2.0;2;N
+5787K8805-54;499 McKenzie Towne Blvd;SE;R4;435602.65;Clean, large lot, good neighbours;5261.3;1.5;5;A
+4660E5854-91;299 Harvest Glen Rise;NE;R2;318053.97;Needs work;5055.7;2.0;5;N
+2186D1494-72;976 Panorama Hills Dr.;NW;R3;490228.88;Handyman special;4385.9;3.0;4;D
+1179H532-10;41 Parkwood Dr.;SE;R2;404546.39;Beautiful walk out basement;4074.8;3.5;2;D
+1499K3920-8;88 Bridle Estates Way;SW;R1;335949.19;Spectacular veiw, great location;5484.7;1.0;5;A
+7496J3082-66;129 Tuscany Heights;NW;R1;519504.04;Spectacular veiw, great location;4684.1;2.0;2;A
+9020A5034-79;596 RiverGlen Close;SE;R1;313425.06;A real bargain;5442.6;3.0;4;D
+1731I6731-50;323 Falwood Place;NE;R1;405965.01;A real bargain;4147.0;1.0;3;A
+8059G9709-44;912 Rundleson Way;NE;R1;452197.34;Immaculate condition;4541.6;1.0;3;A
+5462C3397-23;854 Harvest Glen Rise;NE;R2;481790.16;Spectacular veiw, great location;4454.6;1.5;5;N
+3537V7490-97;269 FalconRidge Blvd;NE;R4;561451.28;Handyman special;4389.6;1.0;5;D
+6289L463-38;542 Southland Dr.;SW;R4;325801.68;Clean, large lot, good neighbours;5025.9;1.0;2;N
+128M2641-59;117 Ranch Estates Rd.;NW;R1;508012.91;Spectacular veiw, great location;5293.7;1.0;4;D
+2240V8387-44;463 Coach Hill Rd.;SW;R3;506621.8;Needs work;4763.9;1.0;5;N
+7700Y2640-60;732 Tuscany Heights;NW;R1;517514.49;Immaculate condition;4618.0;2.5;5;A
+7067R2509-47;798 Somerglen Way;SW;R1;640149.25;Great location;5444.5;1.5;4;A
+9346S4783-70;270 Panorama Cove;NW;R1;634666.35;Lots of space;4042.0;3.5;3;D
+7947J4967-7;731 Taracove Estate Dr.;NE;R1;261610.85;Handyman special;4292.6;2.5;2;D
+9760S3024-1;778 Panorama Cres.;NW;R1;578572.61;Needs work;4011.9;3.0;5;D
+9613O5135-4;511 Hawkstone Close;NW;R2;398125.83;Needs work;4473.4;2.0;4;A
+4247R9717-89;910 Senic Acres Dr.;NW;R4;529028.47;Handyman special;4548.2;1.5;4;N
+1432M9455-3;55 Taralea Place;NE;R2;627720.35;Great location;5103.6;1.5;2;N
+1132S9400-44;323 Lake Christina Way;SE;R1;279736.33;Spectacular veiw, great location;4953.5;1.5;3;D
+6461N4085-1;713 Royal Oak Dr.;NW;R3;510729.7;Handyman special;4758.9;2.0;4;N
+2845F4273-10;25 Sirroco Dr.;SW;R4;294378.45;Great mountain view, large lot;4335.0;1.0;5;N
+4010M6241-35;71 McKenzie Towne Blvd;SE;R4;379525.72;Beautiful walk out basement;4833.6;3.5;2;A
+3459S3512-80;155 Aspen Ridge Gate;SW;R2;301483.49;A real bargain;5232.1;2.5;3;A
+9710P2650-82;889 Harvest Hills Dr.;NE;R3;572506.87;Spectacular veiw, great location;5479.0;2.0;2;D
+2935N1081-59;945 Bridle Estates Way;SW;R1;364024.5;Beautiful walk out basement;5016.9;2.5;2;A
+9651T6003-79;591 Citadel Dr.;NW;R4;298288.53;Clean, large lot, good neighbours;5225.4;1.0;2;D
+884M9172-72;863 Harvest Hills Dr.;NE;R3;259685.92;Beautiful walk out basement;5107.2;2.5;5;D
+7563P2803-55;870 Charlotte Dr.;SE;R2;616030.99;Immaculate condition;5265.5;2.0;5;D
+5075E6943-50;178 FalconRidge Blvd;NE;R4;307736.93;Lots of space;5408.8;3.0;4;N
+6613B8514-37;333 Hawkstone Close;NW;R2;517842.64;Beautiful walk out basement;4752.6;3.0;5;N
+2507P6677-54;441 McKenzie Towne Blvd;SE;R4;478448.83;Great location;4277.0;1.0;4;A
+9802R8409-79;270 Breaside Dr.;SW;R4;399195.86;Handyman special;5343.1;3.5;3;A
+3274L2034-9;649 Coach Hill Rd.;SW;R3;320993.79;Great mountain view, large lot;5165.1;2.5;5;D
+5514Z5006-38;940 Hawkwood Blvd;NW;R3;503293.05;Clean, large lot, good neighbours;4585.5;2.5;3;N
+42Q5530-65;56 Dalhousie Dr.;NW;R4;345762.61;Spectacular veiw, great location;4499.5;1.0;2;D
+7214D5503-71;982 Ranch Estates Rd.;NW;R1;425320.42;Needs work;4635.3;2.5;4;A
+8366Q4904-5;892 Panorama Cres.;NW;R1;397038.93;Clean, large lot, good neighbours;4697.5;1.5;3;A
+8851G5104-46;824 Edgebank Place;NW;R1;262527;Great location;4649.5;2.5;2;D
+5666O499-66;508 McKenzie Towne Blvd;SE;R4;251967.26;Great mountain view, large lot;5119.7;1.0;2;A
+9956K4635-90;224 Panorama Cove;NW;R1;496066.22;Great mountain view, large lot;4087.5;1.0;3;N
+9089E8328-44;641 Royal Crest Place;NW;R2;581752.65;Clean, large lot, good neighbours;5122.1;2.0;3;A
+6976T3344-6;291 Wood Glen Close;SW;R2;590537.82;Needs work;4024.8;3.5;5;A
+5071S5975-97;857 Coach Ridge Close;SW;R1;511029.16;Great mountain view, large lot;4249.4;1.0;5;N
+9873W294-42;630 Lancaster Way;SW;R3;397167.39;Great mountain view, large lot;4455.7;3.5;3;A
+5849G949-73;365 Martin Crossing Dr.;NE;R3;511334.81;Great mountain view, large lot;4485.8;1.5;4;D
+5496V242-94;470 Maple Burn Dr.;SE;R3;546561.09;Spectacular veiw, great location;4938.4;3.5;4;N
+701R3676-18;729 Breaside Dr.;SW;R4;264630.5;Immaculate condition;4852.9;2.5;2;D
+1757O2392-64;895 Templeside Rd.;NE;R2;516973.12;Handyman special;4313.6;2.5;4;D
+2190A9756-48;222 RiverBend Dr.;SE;R3;432800.37;Handyman special;4522.8;2.0;2;N
+9137D2948-20;555 Deer Park Way;SE;R2;364023.37;A real bargain;4596.8;3.5;4;D

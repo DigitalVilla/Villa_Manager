@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"controller"},{"l":"model.exceptions"},{"l":"model.exceptions.clientale"},{"l":"model.exceptions.property"},{"l":"model.persistence"},{"l":"model.persistence.clientale"},{"l":"model.persistence.property"},{"l":"model.problemDomain.clientale"},{"l":"model.problemDomain.property"},{"l":"view"}]
