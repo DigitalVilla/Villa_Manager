@@ -3,10 +3,10 @@
 Besides all the required functionalities for a broker-like application. This programm also implements
 Linked lists, random access files, reflection, singleton pattern, serialization and the MVC model design. 
 #### Main Login Screen
-![Screenshot](screenshot.png) 
+![Screenshot](screenshot.png)  </br>
 Main login screen still under development.
 #### Fully functional CURD  implementation.
-![Screenshot](screenshos.png) 
+![Screenshot](screenshos.png)  </br>
 The three CRUD interfaces are fully functional.  
 </br>
 #### Play Around
