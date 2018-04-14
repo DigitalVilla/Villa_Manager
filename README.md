@@ -1,7 +1,7 @@
-# Neat_MVC_Broker
-### A Beautiful CRUD Application using Java Swing
-Besides all the required functionalities for a broker-like application. This programm also implements
-Linked lists, random access files, reflection, singleton pattern, serialization and the MVC model design. 
+# Villa Manager
+### A Beautiful CRUD Application using JAVA and MVC-model
+#### Technologies
+JAVA, MVC-model, Singleton pattern, Swing, Linked lists, Random access file, reflection, serialization.
 #### Main Login Screen
 ![Screenshot](screenshot.png)  </br>
 Main login screen still under development.
