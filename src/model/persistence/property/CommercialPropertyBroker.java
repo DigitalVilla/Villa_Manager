@@ -4,7 +4,7 @@ import java.io.*;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.util.*;
-import linkedList.SLL;
+import linkedList.DLL;
 import model.persistence.Broker;
 import model.problemDomain.property.CommercialProperty;
 import model.problemDomain.property.Property;
@@ -19,14 +19,14 @@ public class CommercialPropertyBroker implements Broker {
 	private static final String	SER_FILE ="res/comprop.ser"; 
 	private static CommercialPropertyBroker cb;
 	private long nextId;
-	private SLL myList;
+	private DLL myList;
 	
 	
 	/**
 	 * Default Constructor
 	 */
 	private CommercialPropertyBroker() {
-		myList = new SLL();
+		myList = new DLL();
 		nextId = 0;
 	}
 		
@@ -82,7 +82,7 @@ public class CommercialPropertyBroker implements Broker {
 
 	@Override
 	public List search(String search, String type) {
-		SLL theList = new SLL();
+		DLL theList = new DLL();
 		if (type.equalsIgnoreCase("id")) 
 			return searchBy(theList, search,"getId");
 		if (type.equalsIgnoreCase("price")) 
@@ -94,7 +94,7 @@ public class CommercialPropertyBroker implements Broker {
 		return theList.getList();
 	}
 
-	private List searchBy(SLL theList, String search, String method) {
+	private List searchBy(DLL theList, String search, String method) {
 		Method obj = null;
 		CommercialProperty cp = null;
 		for (int i = 0; i <myList.size(); i++) {
@@ -126,7 +126,7 @@ public class CommercialPropertyBroker implements Broker {
 	 * if no serialized file for the commercial property currently exists.
 	 */
 	private void loadSerFile() {
-		this.myList = new SLL();
+		this.myList = new DLL();
 		try {
 			String str;
 			BufferedReader reader = new BufferedReader(new FileReader(INPUT_FILE));
